@@ -3676,29 +3676,29 @@ $lang['contract_notes']                                 = 'Poznámky';
 $lang['contract_add_note']                              = 'Přidat poznámku';
 
 # Version 2.1.1
-$lang['frequency']         = 'Frequency';
-$lang['frequency_every']   = 'Every %s';
-$lang['last_invoice_date'] = 'Last Invoice Date';
-$lang['next_invoice_date_list'] = 'Next Invoice Date';
-$lang['enter_new_card']    = 'Enter New Card';
+$lang['frequency']         = 'Frekvencke';
+$lang['frequency_every']   = 'Každé %s';
+$lang['last_invoice_date'] = 'Datum poslední fakturace';
+$lang['next_invoice_date_list'] = 'Datum další fakturace';
+$lang['enter_new_card']    = 'Zadat novou kartu';
 
 # Version 2.2.0
-$lang['save_and_record_payment']                                     = 'Save & Record Payment';
-$lang['choose_from_google_drive']                                    = 'Choose from Google Drive';
-$lang['open_in_google']                                              = 'Open In Google';
+$lang['save_and_record_payment']                                     = 'Uložit a zaznamenat platbu';
+$lang['choose_from_google_drive']                                    = 'Vybrat z Google Drive';
+$lang['open_in_google']                                              = 'Otevřít v Google';
 $lang['google_picker']                                               = 'Google Picker';
-$lang['enable_google_picker']                                        = 'Enable Google Picker';
-$lang['google_api_client_id']                                        = 'Google API Client ID';
-$lang['subtract_tax_total_from_amount']                              = 'Subtract TAX total (%s) from amount';
+$lang['enable_google_picker']                                        = 'Povolit Google Picker';
+$lang['google_api_client_id']                                        = 'Google API klient ID';
+$lang['subtract_tax_total_from_amount']                              = 'Odečíst celkem (%s) daně z částky';
 $lang['expense_subtract_info_text']                                  = 'Use this option to subtract the total tax amount from the expense amount, useful when you entered the expense amount with tax included (tax inclusive).';
 $lang['company_exists_info']                                         = 'It looks that a customer with name %s already exists, if you still want to create the customer you can ignore this message.';
-$lang['import_items']                                                = 'Import Items';
-$lang['total_items_deleted']                                         = 'Total items deleted: %s';
-$lang['billable_amount']                                             = 'Billable Amount';
-$lang['last_child_invoice_date']                                     = 'Last Child Invoice Date';
-$lang['good_morning']                                                = 'Good Morning';
-$lang['good_afternoon']                                              = 'Good Afternoon';
-$lang['good_evening']                                                = 'Good Evening';
+$lang['import_items']                                                = 'Importovat položky';
+$lang['total_items_deleted']                                         = 'Celkem odstraněno položek: %s';
+$lang['billable_amount']                                             = 'Účtovatelná částka';
+$lang['last_child_invoice_date']                                     = 'Datum poslední fakturace podřazené faktury';
+$lang['good_morning']                                                = 'Dobré ráno';
+$lang['good_afternoon']                                              = 'Dobré odpoledne';
+$lang['good_evening']                                                = 'Dobrý večer';
 $lang['description_in_invoice_item']                                 = 'Include description in invoice item';
 $lang['description_in_invoice_item_help']                            = 'Useful if you want to include additional information on the subscription invoice, e.q. what this subscription includes.';
 $lang['ticket_reminders']                                            = 'Reminders';
